@@ -66,11 +66,5 @@ link = "plugins/search/search.js"
 URL = "https://fb.com/hhngan"
 icon = "ti-facebook"
 [[params.social]]
-URL = "#"
-icon = "ti-twitter-alt"
-[[params.social]]
-URL = "#"
+URL = "https://www.linkedin.com/in/hhngan/"
 icon = "ti-linkedin"
-[[params.social]]
-URL = "#"
-icon = "ti-github"
