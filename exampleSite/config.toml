@@ -6,7 +6,7 @@ theme = "parsa-hugo"
 title = "Viethub | Huynh Huy Ngan"
 [[menu.main]]
 URL = "about"
-name = "About"
+name = "Tôi !"
 weight = "2"
 [[menu.main]]
 URL = "contact"
