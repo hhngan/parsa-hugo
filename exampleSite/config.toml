@@ -1,4 +1,4 @@
-baseURL = "https://viethub.netlify.com"
+baseURL = "https://viethub.netlify.app"
 languageCode = "en-us"
 paginate = 6
 summaryLength = "10"
