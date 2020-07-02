@@ -15,7 +15,7 @@ weight = 3
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
-address = "364 Cộng Hòa - P13 - Quận Tân Bình - HCM"
+address = "364 Cộng Hòa - P13 - Tân Bình - HCM"
 author = "Ngân Huỳnh"
 author_image = "images/banner-img.png"
 bio = "Tôi là người thích tự do, thích chia sẻ và luôn tìm kiếm những cơ hội phát triển mới"
@@ -63,7 +63,7 @@ link = "plugins/search/mark.js"
 [[params.plugins.js]]
 link = "plugins/search/search.js"
 [[params.social]]
-URL = "#"
+URL = "https://fb.com/hhngan"
 icon = "ti-facebook"
 [[params.social]]
 URL = "#"
