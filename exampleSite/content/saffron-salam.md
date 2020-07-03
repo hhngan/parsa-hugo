@@ -5,7 +5,7 @@ description = "nhụy hoa nghệ tây"
 image = "/images/45f46529eed8327fec2611c7b5a1cc3f.jpg"
 tags = []
 title = "Saffron Salam"
-type = "post"
+type = "featured"
 
 +++
 Saffron là gì?
